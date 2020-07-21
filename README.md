@@ -1,27 +1,6 @@
 # 关于我 | About Me
 一个喜欢写点代码自娱自乐的野生码农, Indie game developer。
 
-[![codewars](https://www.codewars.com/users/shitake/badges/large)](https://www.codewars.com/users/shitake/)
-
-## Steam
-**My Steam Profile** *(from [SteamDB](https://steamdb.info/calculator/76561198186985262/?cc=cn))*
-
-
-* **Worth:** ¥ 2716 (¥ 1842 with sales)
-
-* **Games owned:** 159
-
-* **Games played:** 128 *(80%)*
-
-* **Hours on record:** 1,206.7h
-
-## 其他可以找到我的地方 | Other places to find me
-[Steam](https://steamcommunity.com/id/shitake_/)
-
-[cowlevel](https://cowlevel.net/people/shitake)
-
-[indienova](https://indienova.com/home)
-
 # 我的关注点 | My Focus
 - [x] Simulation game gameplay
 - [X] Unity 2D pixel game dev
@@ -49,7 +28,14 @@
 ## Art
 [wh40k Icon](https://github.com/Warhammer40kGroup/wh40k-icon) Warhammer 40000 icons.(Tau/Nec etc)
 
-# 我参与的 | My Contribution
+## 我参与的 | My Contribution
 [Twine](https://github.com/klembot/twinejs) 中文翻译贡献
 
 [Majsoul plus](https://github.com/MajsoulPlus/majsoul-plus) 为该项目短暂的贡献过一些代码，参与过一部分的内容设计和 code review
+
+# 其他可以找到我的地方 | Other places to find me
+[Steam](https://steamcommunity.com/id/shitake_/)
+
+[cowlevel](https://cowlevel.net/people/shitake)
+
+[indienova](https://indienova.com/home)
