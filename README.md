@@ -4,7 +4,7 @@
 # 我的关注点 | My Focus
 - [x] Simulation game gameplay
 - [X] Unity 2D pixel game dev
-- [x] Game dev tool & workflow
+- [x] Game dev tool & Game Dev Pipeline
 - [x] TRPG(DND/Warhammer 40K)
 
 
