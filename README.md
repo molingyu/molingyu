@@ -1,5 +1,5 @@
 # 关于我 | About Me
-一个喜欢写点代码自娱自乐的野生码农, Indie game developer。
+一个喜欢写点代码自娱自乐的奇幻爱好者, Indie game developer。
 
 # 我的关注点 | My Focus
 - [x] Simulation game gameplay
@@ -7,6 +7,8 @@
 - [x] Game dev tool & Game Dev Pipeline
 - [x] TRPG(DND/Warhammer 40K)
 
+
+[![Shitake's GitHub stats](https://github-readme-stats.vercel.app/api?username=molingyu&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 # 我做过什么 | My Work
 
