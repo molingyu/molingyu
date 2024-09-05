@@ -3,7 +3,7 @@
 
 # 我的关注点 | My Focus
 - [x] Simulation game gameplay
-- [X] Unity 2D pixel game dev
+- [X] Godot/Unity 2D game dev
 - [x] Game dev tool & Game Dev Pipeline
 - [x] TRPG(DND/Warhammer 40K)
 
@@ -40,4 +40,4 @@
 
 [cowlevel](https://cowlevel.net/people/shitake)
 
-[indienova](https://indienova.com/home)
+[indienova](https://indienova.com/u/shitake)
